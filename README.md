@@ -1,4 +1,4 @@
-Capplace Forex Broker Review: A Comprehensive Analysis
+Capplace Broker Review: A Comprehensive Analysis
 ======================================================
 
 Introduction
@@ -6,6 +6,22 @@ Introduction
 
 CapPlace is an emerging forex and CFD broker that offers traders access to a wide range of financial instruments with competitive spreads, fast execution speeds, and a secure trading environment. Whether you are a beginner or an experienced trader, CapPlace provides multiple account options and advanced trading tools to suit various strategies.
 This review will cover CapPlace’s regulatory framework, trading platforms, asset offerings, account types, security measures, customer support, and more to help you make an informed decision.
+
+| **Asset** | **details** | 
+|-------------| -------------- | 
+| Trading platform | Metatrader 5 | 
+| Accounts | Basic, Gold, Platinum, Islamic | 
+| Account currency | EUR | 
+| Withdrawal | Bank transfers, Visa, Mastercard, Maestro, Neteller, Skrill, iDEAL, Klarna, Multibanko  | 
+| Minimum deposit | 250 EUR | 
+| Leverage | Up to 1:30 | 
+| PAMM accounts | No | 
+| Min order | 0,01 |
+| EUR/USD spread | 2.5 -2.9   | 
+| Instruments | CFD on Forex, stocks, indeces, metals, energies, commodities, cryptocurrencies and ETFs | 
+| Margin call/ Stop out | No information | 
+| Liquidity power | No information | 
+| Mobile trading | Yes |
 
 ![image](https://github.com/Broker-review/Capplace-review/blob/9ff6582fc98a3b9281cc09b7a33949f7edfa0a0b/capplace%20home%20screen.jpg)
 
