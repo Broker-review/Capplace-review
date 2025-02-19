@@ -9,11 +9,11 @@ This review will cover CapPlace’s regulatory framework, trading platforms, ass
 
 | **Asset** | **details** | 
 |-------------| -------------- | 
-| Trading platform | Metatrader 5 | 
+| Trading platform | Webtrader | 
 | Accounts | Basic, Gold, Platinum, Islamic | 
-| Account currency | EUR | 
+| Account currency | USD | 
 | Withdrawal | Bank transfers, Visa, Mastercard, Maestro, Neteller, Skrill, iDEAL, Klarna, Multibanko  | 
-| Minimum deposit | 250 EUR | 
+| Minimum deposit | 250 USD | 
 | Leverage | Up to 1:30 | 
 | PAMM accounts | No | 
 | Min order | 0,01 |
